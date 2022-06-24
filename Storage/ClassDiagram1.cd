@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Storage.Product">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAICAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Storage.StorageApp">
+    <Position X="5.25" Y="1" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AABAhACEASAgAAAAAACAABACAMI6CAAAAXAMACAAAAA=</HashCode>
+      <FileName>StorageApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
